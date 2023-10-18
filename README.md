@@ -61,7 +61,7 @@ Contributions are welcome! If you have suggestions, improvements, or additional 
 
 ## 🖼️ Screenshots
 
-![Cognos Analytics Visualization](https://github.com/prabhatKumar65/COVID-Vaccine-Analyst-Phase-3/tree/main)  
+![Cognos Analytics Visualization](https://github.com/prabhatKumar65/COVID-Vaccine-Analyst-Phase-3/blob/main/Cognos%20Analytics%20Visualization.jpg?raw=true)  
 *Cognos Analytics Visualization*
 
 ![Python Data Analysis](https://github.com/prabhatKumar65/COVID-Vaccine-Analyst-Phase-3/blob/main/Web%20capture_17-10-2023_143354_github.com.jpeg)  
