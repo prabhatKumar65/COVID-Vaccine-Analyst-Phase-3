@@ -1,6 +1,6 @@
 # 🎯 Data Science and Data Visualization Training
 
-Welcome to the Data Science and Data Visualization Training repository! This repository contains materials and resources from Modules 5 and 6 of our comprehensive training program. Participants will learn essential skills in data visualization using IBM Cognos Analytics and data analysis with Python.
+Welcome to the Data Science and Data Visualization Training repository. This repository contains materials and resources from Modules 5 and 6 of our comprehensive training program. Participants will learn essential skills in data visualization using IBM Cognos Analytics and data analysis with Python.
 
 ## 🚀 Modules Overview
 
